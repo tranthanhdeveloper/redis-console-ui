@@ -12,7 +12,7 @@
     <artifactId>redis-console-ui</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>redis-console-ui</name>
-    <description>UI console to manage Redis. A alternative for Redis cli for doing redis tasks.</description>
+    <description>An UI console to manage Redis. A alternative for Redis cli for doing redis tasks.</description>
     <properties>
         <java.version>11</java.version>
     </properties>
